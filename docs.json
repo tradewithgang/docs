@@ -43,8 +43,8 @@
         }
     },
     "logo": {
-        "light": "./gang-logo.png",
-        "dark": "./gang-logo.png"
+        "light": "./gang-logo.svg",
+        "dark": "./gang-logo.svg"
     },
     "navbar": {
     },
