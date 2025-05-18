@@ -2,8 +2,9 @@
     "$schema": "https://mintlify.com/docs.json",
     "theme": "mint",
     "name": "Gang",
+    "description": "The fastest way to trade memecoins with your gang",
     "colors": {
-         "primary": "#ffffff",
+         "primary": "#000000",
          "light": "#ffffff",
          "dark": "#ffffff"
     },
