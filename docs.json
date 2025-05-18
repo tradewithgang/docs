@@ -5,13 +5,14 @@
     "colors": {
          "primary": "#ffffff",
          "light": "#ffffff",
-         "dark": "#000000"
+         "dark": "#ffffff"
     },
     "appearance": {
         "default": "dark",
         "strict": true
     },
     "background": {
+       "decoration": "grid",
       "color": {"dark": "#000000", "light": "#000000"}
     },
     "favicon": "https://cdn.gang.trade/gang-icon.png",
