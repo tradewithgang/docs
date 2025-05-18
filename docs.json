@@ -43,8 +43,8 @@
         }
     },
     "logo": {
-        "light": "./logo.png",
-        "dark": "./logo.png"
+        "light": "./favicon.png",
+        "dark": "./favicon.png"
     },
     "navbar": {
     },
