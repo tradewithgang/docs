@@ -42,8 +42,8 @@
         }
     },
     "logo": {
-        "light": "https://cdn.gang.trade/logo.png",
-        "dark": "https://cdn.gang.trade/logo.png"
+        "light": "./logo.png",
+        "dark": "./logo.png"
     },
     "navbar": {
         "links": [],
