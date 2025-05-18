@@ -4,7 +4,8 @@
     "name": "Gang",
     "colors": {
          "primary": "#ffffff",
-         "light": "#ffffff"        
+         "light": "#ffffff",
+         "dark": "#ffffff"
     },
     "appearance": {
         "default": "dark",
@@ -17,8 +18,8 @@
     "favicon": "https://cdn.gang.trade/gang-icon.png",
     "navigation": {
         "pages": [
-                            "index"
-                        ],
+            "index"
+        ],
         "global": {
             "anchors": [
                 {
