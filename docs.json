@@ -11,7 +11,7 @@
         "default": "dark",
         "strict": true
     },
-    "favicon": "/favicon.svg",
+    "favicon": "https://cdn.gang.trade/gang-icon.png",
     "navigation": {
         "tabs": [
             {
@@ -50,8 +50,8 @@
         }
     },
     "logo": {
-        "light": "/logo/light.svg",
-        "dark": "/logo/dark.svg"
+        "light": "https://cdn.gang.trade/logo.png",
+        "dark": "https://cdn.gang.trade/logo.png"
     },
     "navbar": {
         "links": [],
