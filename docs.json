@@ -43,8 +43,8 @@
         }
     },
     "logo": {
-        "light": "./logo.svg",
-        "dark": "./logo.svg"
+        "light": "./logo-hands.svg",
+        "dark": "./logo-hands.svg"
     },
     "navbar": {
     },
