@@ -50,7 +50,8 @@
         "primary": {
             "type": "button",
             "label": "Trade",
-            "href": "https://t.me/tradewithgang_bot"
+            "href": "https://t.me/tradewithgang_bot",
+            "color": "#000000"
         }
     },
     "footer": {
