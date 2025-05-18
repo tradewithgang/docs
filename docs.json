@@ -4,8 +4,7 @@
     "name": "Gang",
     "colors": {
          "primary": "#ffffff",
-         "light": "#ffffff",
-         "dark": "#ffffff"
+         "light": "#ffffff"        
     },
     "appearance": {
         "default": "dark",
@@ -13,7 +12,7 @@
     },
     "background": {
        "decoration": "grid",
-      "color": {"dark": "#000000", "light": "#000000"}
+       "color": {"dark": "#000000", "light": "#000000"}
     },
     "favicon": "https://cdn.gang.trade/gang-icon.png",
     "navigation": {
@@ -24,9 +23,7 @@
                     {
                         "group": "Get Started",
                         "pages": [
-                            "index",
-                            "quickstart",
-                            "development"
+                            "index"
                         ]
                     }
                 ]
@@ -39,10 +36,11 @@
                     "anchor": "Documentation",
                     "href": "https://docs.gang.trade",
                     "icon": "book-open-cover"
+              
                 },
                 {
                     "anchor": "Community",
-                    "href": "https://discord.gg/TrgUgVgjsY",
+                    "href": "https://discord.gg/tradewithgang",
                     "icon": "discord"
                 },
                 {
@@ -69,7 +67,7 @@
         "socials": {
             "x": "https://x.com/tradewithgang",
             "telegram": "https://t.me/tradewithgang_bot",
-            "discord": "https://discord.gg/TrgUgVgjsY"
+            "discord": "https://discord.gg/tradewithgang"
         }
     }
 }
