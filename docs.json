@@ -47,14 +47,6 @@
         "dark": "./logo.png"
     },
     "navbar": {
-        "links": [],
-        "primary": {
-            "type": "button",
-            "label": "Trade",
-            "href": "https://t.me/tradewithgang_bot",
-            "color": "#ffffff",
-            "textColor": "#000000"
-        }
     },
     "footer": {
         "socials": {
