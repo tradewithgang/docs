@@ -15,7 +15,7 @@
        "decoration": "grid",
        "color": {"dark": "#000000", "light": "#000000"}
     },
-    "favicon": "https://cdn.gang.trade/gang-icon.png",
+    "favicon": "./favicon.png",
     "navigation": {
         "pages": [
             "index"
