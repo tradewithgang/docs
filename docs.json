@@ -16,20 +16,9 @@
     },
     "favicon": "https://cdn.gang.trade/gang-icon.png",
     "navigation": {
-        "tabs": [
-            {
-                "tab": "Guides",
-                "groups": [
-                    {
-                        "group": "Get Started",
-                        "pages": [
+        "pages": [
                             "index"
-                        ]
-                    }
-                ]
-            }
-            
-        ],
+                        ],
         "global": {
             "anchors": [
                 {
